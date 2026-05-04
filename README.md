@@ -1,6 +1,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Version](https://img.shields.io/badge/version-managed-lightgrey)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Installer](https://img.shields.io/badge/install-guided-blueviolet)
 
 # OpenClaw on Windows
 
