@@ -1,44 +1,36 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Version](https://img.shields.io/badge/version-managed-lightgrey)
+
 # OpenClaw on Windows
 
-Beginner-friendly Windows setup assistant and Mission Control dashboard for running OpenClaw locally.
+Run powerful AI workflows locally — without the setup headaches.
 
-![Mission Control](https://raw.githubusercontent.com/zerolabs-app/openclaw-on-windows/main/mission-control.png)
+[![Mission Control](https://raw.githubusercontent.com/zerolabs-app/openclaw-on-windows/main/mission-control.png)](https://openclawonwindows.com)
 
-## What it Does
+---
 
-OpenClaw on Windows helps users install and manage OpenClaw without guesswork.
+## 🚀 What This Is
 
-- Guided setup for Windows users
-- Mission Control dashboard
-- Stable version tracking
-- Reset and troubleshooting guidance
-- Built for people who are new to terminal-based tools
+OpenClaw on Windows is a beginner-friendly setup and management layer for OpenClaw.
 
-## Website
+It removes the friction of installing and running local AI workflows by guiding users step-by-step and providing a visual dashboard.
 
-https://openclawonwindows.com
+---
 
-## Current Stable Version
+## ⚙️ What You Get
 
-The stable version is controlled by:
+- Guided setup (even if you’ve never used a terminal)
+- Mission Control dashboard for managing workflows
+- Stable version tracking built into the installer
+- Structured workspace for consistent outputs
+- Built-in troubleshooting and reset flow
 
-https://github.com/zerolabs-app/openclaw-version-control
+---
 
-## Project Status
+## 📦 Install
 
-Actively building.
+Install the latest stable version:
 
-## Philosophy
-
-No confusion.  
-No hidden steps.  
-No guesswork.  
-
-Just clear tools that work.
-
-## Zero Labs
-
-Built by Zero Labs — making powerful systems simple.
+```bash
+VERSION=$(curl -fsSL https://raw.githubusercontent.com/zerolabs-app/openclaw-version-control/main/version.txt) && npm uninstall -g openclaw && npm cache clean --force && npm install -g "openclaw@$VERSION" && openclaw --version
