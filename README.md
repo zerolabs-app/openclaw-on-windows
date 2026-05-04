@@ -5,6 +5,8 @@
 
 Beginner-friendly Windows setup assistant and Mission Control dashboard for running OpenClaw locally.
 
+![Mission Control](https://openclawonwindows.com/assets/mission-control.png)
+
 ## What it Does
 
 OpenClaw on Windows helps users install and manage OpenClaw without guesswork.
