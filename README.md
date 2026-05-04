@@ -5,7 +5,7 @@
 
 Beginner-friendly Windows setup assistant and Mission Control dashboard for running OpenClaw locally.
 
-![Mission Control](https://openclawonwindows.com/assets/mission-control.png)
+[![Mission Control](https://openclawonwindows.com/assets/mission-control.png?v=2)](https://openclawonwindows.com)
 
 ## What it Does
 
