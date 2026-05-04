@@ -1,3 +1,6 @@
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/version-managed-lightgrey)
 # OpenClaw on Windows
 
 Beginner-friendly Windows setup assistant and Mission Control dashboard for running OpenClaw locally.
